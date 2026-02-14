@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "旅行計画",
+  "base_artist": "Anna",
+  "createdAt": "2026-02-14T02:12:45.748579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅行計画",
+      "artist": "Anna",
+      "has_synced": false,
+      "path": "select/pl_01_旅行計画_Anna.txt"
+    }
+  ]
+}
